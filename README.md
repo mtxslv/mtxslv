@@ -1,5 +1,5 @@
 ### Hi there 👋
-![anime-aesthetics](https://data.whicdn.com/images/300652990/original.gif)
+![https://data.whicdn.com/images/300652990/original.gif](https://github.com/mtxslv/mtxslv/blob/main/welcome_mtxslv.gif)
 
 <!--
 **mtxslv/mtxslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
