@@ -5,7 +5,7 @@ Below you can find some summarized information about me 😉:
 
 - 🔭 **What do you do?**
   - _AI is my passion 🤩. I'm astonished how many stunning stuff can be made out of data and algorithms. I'm HCIA-AI (Huawei) certified also._
-  - _I'm a data scientist currently working with data 🗄️ from the Oil & Gas 🛢️ industry. My main focus is training AI models using MLOps methodology._
+  - _I'm a data scientist currently working with data 🗄️ from the Oil & Gas 🛢️ industry. My main focus is creating AI models using MLOps methodology._
   - _I find Computer Vision exciting. My projects with it can be found in [my Github Webpage](https://mtxslv.github.io/)_
 - 🌱 **What you've been doing lately?**
   - _I'm currently learning TinyML and Edge AI. This means I am learning how to put an AI model inside a thing like Arduino or similar (we usually name these 'constrained devices'). All the materials I'll be making will be published [here](https://github.com/mtxslv/embedded.ai.mtxslv)._ 
