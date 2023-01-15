@@ -8,11 +8,11 @@ Below you can find some summarized information about me 😉:
   - _I'm a data scientist currently working with data 🗄️ from the Oil & Gas 🛢️ industry. My main focus is creating AI models using MLOps methodology._
   - _I find Computer Vision exciting. My projects with it can be found in [my Github Webpage](https://mtxslv.github.io/)_
 - 🌱 **What you've been doing lately?**
-  - _I just released my first package. If you work with robotic simulation using CoppeliaSim, [check it out](https://github.com/mtxslv/guira)!_
-  - _I'm currently learning TinyML and Edge AI. This means I am learning how to put an AI model inside a thing like Arduino or similar (we usually name these 'constrained devices'). All the materials I'll be making will be published [here](https://github.com/mtxslv/embedded.ai.mtxslv)._ 
+  - _I just released my first package. If you work with robotic simulation using CoppeliaSim, you can [check the package out](https://github.com/mtxslv/guira) or [read a briefing on Medium](https://medium.com/@mateus.d.assis.silva/learning-robotics-made-easier-536ec16a4b8a)!_
+  - _I'm constantly testing new, random ideas and talking about them on [my Medium account](https://medium.com/@mateus.d.assis.silva/). If you want to know what I've been working with lately, you will certainly find something about it there._
   - _Besides that, I'll be graduating in Mechatronics Engineering soon (I'm a mechatronics technician already)._
 - ⚡ **Tell me more about you as a person, not as a student or something...**  
-  - _I love art 🎨 in general. Generative Art with AI amazes me. I'm used to play with some of these technologies (DALL-E, Midjourney, etc) and post the results on [my Instagram](https://www.instagram.com/watashiwa_axis/). If you are curious, but not certain of what it means, [here is one of my experiments](https://www.instagram.com/p/ChmzOUdr7Xn/) to get you interested (hopefully)._
+  - _I love art 🎨 in general. Generative Art with AI amazes me. I'm used to play with some of these technologies (DALL-E, Midjourney, etc) and post the results on [my Instagram](https://www.instagram.com/watashiwa_axis/) and [Flickr](https://flickr.com/photos/mtxslv/) accounts. If you are curious, but not certain of what it means, [here is one of my experiments](https://www.instagram.com/p/ChmzOUdr7Xn/) to get you interested in (hopefully)._
   - _I learned english when I was a teenager and started learning japanese some years ago. While I'm proficient with the former, the latter is an work in progress 😅_
 - 🤝 **I want to collaborate with you. How can I reach out to you?**
   - _Thank you for asking! If you are interested in sharing some thoughts, you can email me (email address on my profile, at the left), or make contact through [LinkedIn](https://www.linkedin.com/in/mateus-assis-013a46140/), or even [Instagram](https://www.instagram.com/watashiwa_axis/)_
